@@ -21,7 +21,7 @@ Data is fetched from [CNBC Markets](https://www.cnbc.com/markets/).
 
 ## Installation
 
-1. Download the `.rmskin` from the [Releases page](https://github.com/yourusername/StockChangeMonitor/releases).
+1. Download the `.rmskin` from the [Releases page](https://github.com/SeanLangre/StockChangeMonitor/releases).
 2. Open the `.rmskin` file to install the Rainmeter skin.
 3. After installation, load the skin from the Rainmeter manager.
 
