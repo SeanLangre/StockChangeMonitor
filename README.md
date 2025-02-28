@@ -22,4 +22,4 @@ Data is fetched from [CNBC Markets](https://www.cnbc.com/markets/).
 
 ## License
 
-This project is licensed under the **Creative Commons Attribution - Non-Commercial - Share Alike 3.0** License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.
