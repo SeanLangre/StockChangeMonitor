@@ -25,6 +25,11 @@ Data is fetched from [CNBC Markets](https://www.cnbc.com/markets/).
 2. Open the `.rmskin` file to install the Rainmeter skin.
 3. After installation, load the skin from the Rainmeter manager.
 
+## Usage
+
+To change the Ticker, right-click the widget and select "Edit Skin."
+In the [Variables] section, you'll find StockName=SPY. Replace "SPY" with any ticker symbol available on [CNBC Markets](https://www.cnbc.com/markets/).
+
 ## License
 
 This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.
