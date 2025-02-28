@@ -1,6 +1,7 @@
 # StockChangeMonitor for Rainmeter
 
 **StockChangeMonitor** is a Rainmeter skin that displays the percentage change in stock prices over various time periods:  
+- Today
 - 5 days
 - 1 month
 - 3 months
